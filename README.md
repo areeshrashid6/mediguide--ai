@@ -1,5 +1,8 @@
 # MediGuide AI
 
+DEMO:
+https://areeshrashid6-mediguide--ai-app-wzxooc.streamlit.app/
+
 A two-step Streamlit health-guidance interface:
 
 1. **API Key page** — user enters the OpenAI API key.
